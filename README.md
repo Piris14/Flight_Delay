@@ -95,7 +95,7 @@ folium
 ---
 
 ## 🧑‍💻 Estructura del Proyecto
-
+```
 Flight_Delay/
 │
 ├── images/                # Gráficas y mapas del análisis
@@ -105,6 +105,7 @@ Flight_Delay/
 ├── README.md
 └── requirements.txt
 
+```
 ---
 
 ## 🚀 Cómo Ejecutar
