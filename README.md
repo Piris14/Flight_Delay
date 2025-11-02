@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Prediction
+# ✈️ Predicción de Retrasos en Vuelos
 
 Proyecto de **predicción de retrasos en vuelos** a partir de datos históricos de la aviación comercial en EE. UU.  
 Se explora, visualiza y modela la información para predecir si un vuelo tendrá un **retraso superior a 30 minutos**.
