@@ -56,16 +56,18 @@ El modelo **XGBoost optimizado** obtiene el mejor rendimiento, mostrando una cap
 
 ---
 
-## 🌍 Visualizaciones
+## 📊 Visualización en Tableau
 
-### 🔹 Retrasos medios por aeropuerto
-![Delay by airport](images/delay_map.png)
+He creado un dashboard interactivo en Tableau para visualizar los retrasos de vuelos por aerolínea, aeropuerto y mes.
 
-### 🔹 Rutas con mayor retraso promedio
-![Delay routes](images/delay_routes.png)
+👉 **Ver dashboard en Tableau Public:** [Flight Delays Dashboard]((https://public.tableau.com/app/profile/iris.mu.oz/viz/Retrasosenvuelos_17623637077250/Dashboard1))
 
-### 📈 Distribución de retrasos
-![Delay distribution](images/delay_distribution.png)
+El dashboard incluye:
+- Retrasos promedio por aerolínea ✈️  
+- Top aeropuertos con mayor demora 🏙️  
+- Tendencias mensuales 📆  
+- Mapa interactivo de retrasos 🌎  
+
 
 ---
 
