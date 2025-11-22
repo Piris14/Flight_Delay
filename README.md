@@ -43,7 +43,7 @@ Entre las principales variables destacan:
 
 ## 🤖 Modelos Entrenados
 
-Se compararon tres modelos principales:
+Se compararon cuatro modelos principales:
 
 | Modelo | AUC-ROC |
 |--------|----------|
